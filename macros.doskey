@@ -1,0 +1,3 @@
+vi=vim $*
+nots=cd C:\Users\chetan\Desktop\
+e=explorer .

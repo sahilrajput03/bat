@@ -1,0 +1,4 @@
+
+Readme file in previous folder is for mintty that comes with git-bash.
+That README FILE DOESN'T WORK WITH mintty newer version(msys2 newly installed).
+See the below screenshot for that to work..
